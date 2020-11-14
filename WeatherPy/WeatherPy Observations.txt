@@ -1,0 +1,7 @@
+WeatherPy Observations
+
+1) There is a strong correlation between Max Temperature and Latitude. The closer you get to the Equator (latitude 0) the higher the overall Max Temperatures. This relationship is shown by the high r-value (.79) in the Northern Hemisphere and the moderately high r-value (.52) in the Southern Hemisphere. 
+
+2) When looking at the Max Temperatures for the Northern and Southern Hemisphere, the temperatures  presented in the Southern Hemisphere are much less extreme between the highest and lowest Max Temperatures, showing less variance in Max Temperature overall. The Max Temperatures in the Northern Hemisphere, however, have a much wider range between the highest and lowest Max Temperatures, showing much more variance. This would explain why the r-value for the comparison between the r-value for the relationship between the Northern Hemisphere and Max Temperature was so much higher than the r-value for the relationship between the Southern Hemisphere and Max Temperature.   
+
+3) It appears that for the random cities this script pulled, there is little to no relationship for Northern or Southern Hemisphere and Humidity, Cloudiness, and Wind Speed. 
