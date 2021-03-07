@@ -1,4 +1,4 @@
-# Python-api-Challenge: WeatherPy and VacationPy
+# Weather Visualizations and Vacation Planning
 
 **Part I - WeatherPy**
 
